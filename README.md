@@ -1,4 +1,4 @@
 # React + Vite
 
 **Deploed Link :**
-https://effervescent-dieffenbachia-3e4bd1.netlify.app
+https://66da1755961e637ccb0dc19e--precious-praline-d078cf.netlify.app
