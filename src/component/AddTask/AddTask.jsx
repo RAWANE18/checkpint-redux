@@ -32,7 +32,7 @@ function handleAddTask(e) {
       setDescription("");
       setMessage("");
     } else {
-      setMessage("Please fill both name and description fields");
+      setMessage("Please enter a task description");
     }
   }
 
